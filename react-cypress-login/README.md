@@ -33,3 +33,22 @@ Demonstrates form validation and toast notifications using `sonner`.
 2. **Valid form submission** → shows success toast: _"Hello, {name}!"_
 
 ---
+
+## 🚀 Getting Started
+
+```bash
+# Clone repository
+git clone https://github.com/your-username/frontend-qa-testing-examples.git
+
+# Move into this project folder
+cd react-cypress-login
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+
+# Run Cypress tests
+npx cypress open
+```
