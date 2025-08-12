@@ -18,3 +18,11 @@ This repository is designed to demonstrate practical QA automation skills for fr
   - Form validation
 
 ---
+
+## 📌 Current Examples
+
+- [react-cypress-login](./react-cypress-login)  
+  Minimal React + Vite + TypeScript + Cypress E2E example  
+  Covers:
+  - Empty form submission → error toast
+  - Valid form submission → success toast
